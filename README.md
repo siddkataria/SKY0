@@ -3,10 +3,10 @@ This project was worked upon during the NASA Space Apps Challenge 2020.
 The Team Members were: Siddhesh Kataria, Aadya Saxena, Aayush Ashok, Mehek Agrawal, Rashi Jhawar and Pratyush Agarwal. 
 
 CHALLENGE:
-To identify local sources of carbon emissions and/or estimate amounts of carbon emissions for different human activities to aid scientists in mapping carbon sources and sinks. To help inform decisions to adapt to the consequences of a changing world and aid policy makers in making plans for the future?
+To identify local sources of carbon emissions and/or estimate amounts of carbon emissions to aid scientists in mapping carbon sources and sinks. To aid policy makers in making plans for the future by taking informed decisions.
 
 PROJECT SUMMARY:
-Focussing on four key parameters, power plants, refineries, population density and automobile emissions, with data from the HIFLD Geoplatform and the Federal Highway Administration, we've built a weighted and summarised list of US States, ranked in an ordinal manner, displaying individual measurable contribution to carbon emissions. Further combining this with a ranked list of annual CO2 emissions from the US Energy Information Administration, weighing both of these lists as 30-70, we provide a final ranked list of states according to their carbon footprint. 
+Focussing on four key parameters, power plants, refineries, population density and automobile emissions, with data from the HIFLD Geoplatform and the Federal Highway Administration, we built a weighted and summarised list of US States, ranked in an ordinal manner, displaying individual measurable contribution to carbon emissions. Further combining this with a ranked list of annual CO2 emissions from the US Energy Information Administration, weighing both of these lists as 30-70, we provided a final ranked list of states according to their carbon footprint. 
 
 ADDRESSING THE CHALLENGE:
 Reducing our carbon footprint, while absolutely the responsibility of governments and organizations, is also an individual duty. Having acute, accessible, and easy to digest knowledge of the information regarding the same is a small step in that direction.
